@@ -1,0 +1,41 @@
+0 Air fryer
+1 Aroma diffuser
+2 camera_digital
+3 Coffee maker
+4 countertop_griddle...
+5 deep fryer
+6 dehumidifier
+7 food_blender
+8 food dehydrators
+9 food mixer
+10 food_processor
+11 freestyle_shelter
+12 humidifier
+13 ice_cream_maker
+14 icemaker
+15 laundry_appliances
+16 light_fixture
+17 noise_machine
+18 personal_computer
+19 rice_cooker
+20 robotic_vaccume_cl...
+21 rug
+22 fry_pan
+23 scanner
+24 shoes
+25 speakers
+26 stringed_instrumen...
+27 thermos
+28 toilet
+29 trash_can
+30 workbench
+31 sunglasses
+32 bed
+33 table
+34 chair
+35 dresser
+36 sofas
+37 clock
+38 Tap
+39 mirrors 
+40 turntable
